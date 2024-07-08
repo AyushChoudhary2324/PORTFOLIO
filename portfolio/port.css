@@ -21,7 +21,7 @@ body {
 }
 
 .option a {
-    text-decoration-line: ;
+    text-decoration:none ;
     color: white;
     margin: 0 20px;
     position: relative;
@@ -78,7 +78,7 @@ body {
 }
 
 .middle img {
-    border-radi us: 50%;
+    border: 50%;
     height: 300px;
     width: 300px;
     box-shadow: 0 0 20px 10px rgba(25, 0, 0, 0.8);
